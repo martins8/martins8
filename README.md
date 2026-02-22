@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Arthur Martins and I'm a back-end Developer in Development 😂, from Brazil</p>
+<p align="left">My name is Arthur Martins and I'm a back-end Developer *in Development 😂*, from Brazil</p>
 
 ###
 
