@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I actually code and learning with</h2>
+<h2 align="left">Tech's</h2>
 
 ###
 
