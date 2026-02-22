@@ -27,17 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/vitest-dev/vitest/docs/public/logo.svg" height="40" alt="Vitest logo" />
   <img width="12" />
-  <img src="![Uploading image.png…]()
-" height="40" alt="SQLite logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/tursodatabase/turso-docs/static/img/turso.svg" height="40" alt="Turso logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/biomejs/biome/assets/logo.svg" height="40" alt="Biome logo" />
 </div>
 
 ###
-<h2 align="left"> My Stats 📈</h2>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=martins8&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martins8&layout=compact&theme=radical)
 
