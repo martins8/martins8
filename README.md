@@ -27,7 +27,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/vitest-dev/vitest/docs/public/logo.svg" height="40" alt="Vitest logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/sqlite/sqlite/art/sqlite370-banner.svg" height="40" alt="SQLite logo" />
+  <img src="![Uploading image.png…]()
+" height="40" alt="SQLite logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/tursodatabase/turso-docs/static/img/turso.svg" height="40" alt="Turso logo" />
   <img width="12" />
