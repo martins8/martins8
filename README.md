@@ -27,6 +27,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/vitest-dev/vitest/docs/public/logo.svg" height="40" alt="Vitest logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/callback-io/allogo@main/public/logos/javascript/icon.svg" height="40" alt="JavaScript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/callback-io/allogo@main/public/logos/vue/icon.svg" height="40" alt="Vue logo" />
+
 </div>
 
 ###
