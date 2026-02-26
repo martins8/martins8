@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning: Typescript, Fastify, SQL, Docker, PostgresSQL, TDD <br>🎯 Goals: to become a good professional in the IT field
+<p align="left">📚 I'm currently learning: Typescript, Fastify, SQL, Docker, PostgreSQL, TDD <br>🎯 Goals: to become a good professional in the IT field
 
 ###
 
