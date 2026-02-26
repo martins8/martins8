@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋</h1>
 
 ###
 
-<p align="left">My name is Arthur Martins and I'm a back-end Developer *in Development 😂*, from Brazil!</p>
+<p align="left">My name is Arthur Martins and I'm a full-stack Developer *in Development 😂*, from Brazil!</p>
 
 ###
 
