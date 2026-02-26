@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Arthur Martins and I'm a back-end Developer *in Development 😂*, from Brazil</p>
+<p align="left">My name is Arthur Martins and I'm a back-end Developer *in Development 😂*, from Brazil!</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🪲 Creating bugs since 2025<br>📚 I'm currently learning: Typescript, Fastify, SQLite, TDD <br>🎯 Goals: to become a good professional in the IT field
+<p align="left">📚 I'm currently learning: Typescript, Fastify, SQL, Docker, PostgresSQL, TDD <br>🎯 Goals: to become a good professional in the IT field
 
 ###
 
